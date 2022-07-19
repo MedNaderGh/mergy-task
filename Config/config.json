@@ -1,0 +1,9 @@
+{
+    "development": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb+srv://mergy:mergy@cluster0.esixo.mongodb.net/test?retryWrites=true&w=majority",
+        "JWT_SECRET": "TASK#123",
+        "secret":"task2022",
+        "JWT_EXP": "60m"
+    }
+}
